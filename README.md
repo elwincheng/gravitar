@@ -1,6 +1,6 @@
 # Gravitar
 
-My submission for the UBISOFT NEXT 2022 Programming challenge, written in C++ with Ubisoft Programming API.
+My submission for the UBISOFT NEXT 2022 Programming challenge, written in C++ with the Ubisoft Programming API.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7GSnIu4SKuY/0.jpg)](https://www.youtube.com/watch?v=7GSnIu4SKuY)
 
